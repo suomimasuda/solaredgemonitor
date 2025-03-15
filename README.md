@@ -1,0 +1,2 @@
+# solaredgemonitor
+SolarEdge site monitoring
